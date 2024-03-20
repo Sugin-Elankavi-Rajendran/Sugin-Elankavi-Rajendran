@@ -29,3 +29,4 @@ I have a strong background in robotics, mechatronics, and product development. M
 
 Feel free to reach out for collaboration, discussions, or just to say hi! Let's build something amazing together.
 
+<meta name="google-site-verification" content="CkyfJsco5B0CTEDZpqH3W0JlYjG6OK7uE-y6kv2DGEM" />
