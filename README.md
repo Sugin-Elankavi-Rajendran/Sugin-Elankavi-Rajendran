@@ -12,14 +12,14 @@ I'm a passionate Robotics Engineer with a focus on mechatronics, product develop
 
 I have a strong background in robotics, mechatronics, and product development. My journey includes:
 
-- Robotics Engineer: Designing mobile robots.
-- Research Associate: Designed and Developed a wall climbing robot.
-- Teaching Research Associate: Designed and Developed a pipeline inspection robot.
+- **Robotics Engineer:** Designing mobile robots.
+- **Research Associate:** Designed and developed a wall-climbing robot.
+- **Teaching Research Associate:** Designed and developed a pipeline inspection robot.
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** https://www.linkedin.com/in/sugin-elankavi-rajendran/
-- **Portfolio:** https://www.elankavi.com/
+- **LinkedIn:** [Sugin Elankavi Rajendran](https://www.linkedin.com/in/sugin-elankavi-rajendran/)
+- **Portfolio:** [elankavi.com](https://www.elankavi.com/)
 
 ## 📈 GitHub Stats
 
