@@ -23,7 +23,7 @@ I have a strong background in robotics, mechatronics, and product development. M
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugin-Elankavi-Rajendran&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
 
 ## 📫 Let's Connect
 
