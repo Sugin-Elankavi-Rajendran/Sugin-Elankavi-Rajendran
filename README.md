@@ -5,7 +5,7 @@ I'm a passionate Robotics Engineer with a focus on mechatronics, product develop
 ## 🔧 Skills
 
 - **Design & Simulation:** Solidworks, FEA, FEMM, Creo, AutoCAD, ADAMS, Inventor
-- **Programming:** Matlab
+- **Programming:** Matlab, Python
 - **Hands-On Expertise:** 3D Printing, 3D Scanning, Laser Cutting, CNC Machining
 
 ## 🚀 Experience
